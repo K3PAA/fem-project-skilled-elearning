@@ -359,4 +359,7 @@ svg {
   .skills-wrapper {
     padding-block: 40px;
   }
+  .maximize {
+    margin-top: 2rem;
+  }
 }
